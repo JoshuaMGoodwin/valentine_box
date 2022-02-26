@@ -1,7 +1,7 @@
 # valentine_box
 Code for the Teensy 4.1 to power an IR sensor and speaker to run a Valentine Day box
 
-This is the code and wiring diagram for the 3D printed Valentine Day box available via my channel on YouTube.
+This is the code and wiring diagram for the 3D printed Valentine Day box available via my channel on YouTube at https://youtu.be/ngG_jFy-OGQ.
 
 For this project, you will need a Teensy 4.1, an IR Obstacle Sensor, and a small speaker. You will also need to create the .wav file you want played and put it on an SD card inserted into your Teensy. The file should be named WARPPIPE.WAV unless you change it's name on line 39 of the code. 
 
